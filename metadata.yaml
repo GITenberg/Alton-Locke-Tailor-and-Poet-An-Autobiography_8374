@@ -1,0 +1,51 @@
+_repo: Alton-Locke-Tailor-and-Poet-An-Autobiography_8374
+contributor:
+  unknown_contributor:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: Alton Locke is the story of a young tailor-boy who has instincts and
+  aspirations beyond the normal expectations of his working-class background. He is
+  intensely patriotic and has ambitions to be a poet. In the course of the narrative,
+  Alton Locke loves and struggles in vain. Physically, he is a weak man, but is able
+  to encompass all the best emotions, along with vain longings, wild hopes, and a
+  righteous indignation at the plight of his contemporaries. He joins the Chartist
+  movement because he can find no better vehicle by which to improve the lot of the
+  working class, experiencing a sense of devastation at its apparent failure. Utterly
+  broken in spirit, Alton Locke sails for America to seek a new life there; however,
+  he barely reaches the shore of the New World before he dies.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Tailors -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Poets -- Fiction'
+- !lcsh 'Working class -- Fiction'
+- !lcsh 'Labor movement -- Fiction'
+- !lcsh 'Bildungsromans'
+title: 'Alton Locke, Tailor and Poet: An Autobiography'
+url: http://www.gutenberg.org/ebooks/8374
